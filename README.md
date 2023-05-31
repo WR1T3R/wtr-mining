@@ -21,3 +21,7 @@
 	['copper'] 							 = {['name'] = 'copper', 							 ['label'] = 'Copper', 						['weight'] = 500, 	 ['type'] = 'item',   ['image'] = 'copper.png', 					['unique'] = false, ['useable'] = true,  ['shouldClose'] = true,  ['combinable'] = nil, ['description'] = ''},
 	['iron_ore'] 						 = {['name'] = 'iron_ore', 							 ['label'] = 'Iron', 						['weight'] = 500, 	 ['type'] = 'item',   ['image'] = 'iron_ore.png', 					['unique'] = false, ['useable'] = true,  ['shouldClose'] = true,  ['combinable'] = nil, ['description'] = ''},
 ```
+
+## Credits
+
+This a fork of the T1GER#9080's miner job. (https://discord.gg/FdHkq5q)
